@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="050c033d-3a1d-4bbd-9871-f4ce57b1d511" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/website/mobility/static/défilement.css" beforeDir="false" afterPath="$PROJECT_DIR$/website/mobility/static/défilement.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/mobility/static/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/mobility/static/style_Statistic.css" beforeDir="false" afterPath="$PROJECT_DIR$/website/mobility/static/style_Statistic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/mobility/static/style_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/website/mobility/static/style_main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/mobility/static/style_request.css" beforeDir="false" afterPath="$PROJECT_DIR$/website/mobility/static/style_request.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/mobility/static/style_team.css" beforeDir="false" afterPath="$PROJECT_DIR$/website/mobility/static/style_team.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/mobility/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/mobility/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/mobility/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/mobility/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/mobility/templates/request.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/mobility/templates/request.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2e90Cw8UAJJzPu9xY6s8eAT8yzT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="050c033d-3a1d-4bbd-9871-f4ce57b1d511" name="Changes" comment="" />
+      <created>1711301363058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711301363058</updated>
+    </task>
+    <servers />
+  </component>
+</project>
